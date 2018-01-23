@@ -34,6 +34,8 @@
   },
   "devDependencies": {
     "babel-eslint": "^6.1.2",
-    "eslint": "^3.1.1"
+    "create-react-class": "^15.6.2",
+    "eslint": "^3.1.1",
+    "prop-types": "^15.6.0"
   }
 }
