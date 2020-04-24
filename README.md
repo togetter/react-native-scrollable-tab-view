@@ -2,6 +2,10 @@
 ## react-native-scrollable-tab-view
 [![npm version](https://badge.fury.io/js/react-native-scrollable-tab-view.svg)](https://badge.fury.io/js/react-native-scrollable-tab-view)
 
+> **patched**
+> - because the master branch is not synced with npm and https://github.com/ptomasroos/react-native-scrollable-tab-view/commit/510111adce035a54ecb1b5f77b78e3bfaf513260 is not applied
+> - because PR https://github.com/ptomasroos/react-native-scrollable-tab-view/pull/1049 has not been taken care of. 
+
 This is probably my favorite navigation pattern on Android, I wish it
 were more common on iOS! This is a very simple JavaScript-only
 implementation of it for React Native. For more information about how
